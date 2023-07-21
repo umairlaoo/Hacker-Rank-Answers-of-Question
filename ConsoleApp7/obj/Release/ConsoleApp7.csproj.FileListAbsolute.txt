@@ -1,0 +1,8 @@
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.exe.config
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.pdb

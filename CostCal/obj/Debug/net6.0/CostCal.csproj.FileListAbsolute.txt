@@ -1,0 +1,15 @@
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\bin\Debug\net6.0\CostCal.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\bin\Debug\net6.0\CostCal.deps.json
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\bin\Debug\net6.0\CostCal.runtimeconfig.json
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\bin\Debug\net6.0\CostCal.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\bin\Debug\net6.0\CostCal.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\CostCal.csproj.AssemblyReference.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\CostCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\CostCal.AssemblyInfoInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\CostCal.AssemblyInfo.cs
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\CostCal.csproj.CoreCompileInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\CostCal.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\refint\CostCal.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\CostCal.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\CostCal.genruntimeconfig.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\CostCal\obj\Debug\net6.0\ref\CostCal.dll

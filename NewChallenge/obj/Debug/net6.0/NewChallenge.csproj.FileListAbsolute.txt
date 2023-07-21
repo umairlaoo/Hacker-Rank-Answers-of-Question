@@ -1,0 +1,15 @@
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\bin\Debug\net6.0\NewChallenge.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\bin\Debug\net6.0\NewChallenge.deps.json
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\bin\Debug\net6.0\NewChallenge.runtimeconfig.json
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\bin\Debug\net6.0\NewChallenge.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\bin\Debug\net6.0\NewChallenge.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\NewChallenge.csproj.AssemblyReference.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\NewChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\NewChallenge.AssemblyInfoInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\NewChallenge.AssemblyInfo.cs
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\NewChallenge.csproj.CoreCompileInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\NewChallenge.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\refint\NewChallenge.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\NewChallenge.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\NewChallenge.genruntimeconfig.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\NewChallenge\obj\Debug\net6.0\ref\NewChallenge.dll

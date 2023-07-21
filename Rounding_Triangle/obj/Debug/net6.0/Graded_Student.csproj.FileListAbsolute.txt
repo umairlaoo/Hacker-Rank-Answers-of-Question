@@ -1,0 +1,15 @@
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\bin\Debug\net6.0\Graded_Student.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\bin\Debug\net6.0\Graded_Student.deps.json
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\bin\Debug\net6.0\Graded_Student.runtimeconfig.json
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\bin\Debug\net6.0\Graded_Student.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\bin\Debug\net6.0\Graded_Student.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\Graded_Student.csproj.AssemblyReference.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\Graded_Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\Graded_Student.AssemblyInfoInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\Graded_Student.AssemblyInfo.cs
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\Graded_Student.csproj.CoreCompileInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\Graded_Student.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\refint\Graded_Student.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\Graded_Student.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\Graded_Student.genruntimeconfig.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\Rounding_Triangle\obj\Debug\net6.0\ref\Graded_Student.dll

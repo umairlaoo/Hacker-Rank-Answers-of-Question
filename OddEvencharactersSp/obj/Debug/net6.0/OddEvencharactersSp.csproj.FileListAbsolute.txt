@@ -1,0 +1,15 @@
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\bin\Debug\net6.0\OddEvencharactersSp.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\bin\Debug\net6.0\OddEvencharactersSp.deps.json
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\bin\Debug\net6.0\OddEvencharactersSp.runtimeconfig.json
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\bin\Debug\net6.0\OddEvencharactersSp.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\bin\Debug\net6.0\OddEvencharactersSp.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\OddEvencharactersSp.csproj.AssemblyReference.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\OddEvencharactersSp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\OddEvencharactersSp.AssemblyInfoInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\OddEvencharactersSp.AssemblyInfo.cs
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\OddEvencharactersSp.csproj.CoreCompileInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\OddEvencharactersSp.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\refint\OddEvencharactersSp.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\OddEvencharactersSp.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\OddEvencharactersSp.genruntimeconfig.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\OddEvencharactersSp\obj\Debug\net6.0\ref\OddEvencharactersSp.dll

@@ -1,0 +1,15 @@
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.xml
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CopyComplete
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ClassLibrary1.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ClassLibrary1.pdb

@@ -1,0 +1,15 @@
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\bin\Debug\net6.0\MinMax.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\bin\Debug\net6.0\MinMax.deps.json
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\bin\Debug\net6.0\MinMax.runtimeconfig.json
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\bin\Debug\net6.0\MinMax.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\bin\Debug\net6.0\MinMax.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\MinMax.csproj.AssemblyReference.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\MinMax.AssemblyInfoInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\MinMax.AssemblyInfo.cs
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\MinMax.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\refint\MinMax.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\MinMax.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\MinMax.genruntimeconfig.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\ConsoleApp2\obj\Debug\net6.0\ref\MinMax.dll

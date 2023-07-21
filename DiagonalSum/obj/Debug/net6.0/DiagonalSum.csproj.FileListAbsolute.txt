@@ -1,0 +1,15 @@
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.exe
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.deps.json
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.runtimeconfig.json
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\bin\Debug\net6.0\DiagonalSum.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.csproj.AssemblyReference.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.AssemblyInfoInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.AssemblyInfo.cs
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.csproj.CoreCompileInputs.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\refint\DiagonalSum.dll
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.pdb
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\DiagonalSum.genruntimeconfig.cache
+C:\Users\RnD User\source\repos\ConsoleApp7\DiagonalSum\obj\Debug\net6.0\ref\DiagonalSum.dll
